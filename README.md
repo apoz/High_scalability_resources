@@ -7,12 +7,18 @@ TBC
 
 ## Blogroll
 
+### Scalability blogs
+
 * http://highscalability.com
   The bible of high scalability online.
   
 * https://scaleyourcode.com
   Nice blog and podcast with scalability related interviews.
 
+### Companies engineering blogs
+
+* http://labs.octivi.com
+  
 
 ## Podcasts
 
