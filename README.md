@@ -19,9 +19,12 @@ TBC
 
 * http://labs.octivi.com
   
-
 ## Podcasts
 
 * [Scale your code](https://www.google.comhttps://itunes.apple.com/tt/podcast/scaleyourcode-podcast/id987253051?mt=2)
+
+## Twitter lists
+
+
 
 ## Architecture Examples
