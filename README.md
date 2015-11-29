@@ -25,7 +25,7 @@ TBC
 * [Joyent](https://www.joyent.com/blog/)
 * [Amazon AWS](https://aws.amazon.com/blogs/aws/)
 * [Twitter engineering](https://blog.twitter.com/engineering)
-* 
+
   
 ## Podcasts
 
